@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "@kubernetes/client-node": "^0.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cicdnotary/crossplane-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cicdnotary/crossplane-ui/issues"
+  },
+  "homepage": "https://github.com/cicdnotary/crossplane-ui#readme"
 }
