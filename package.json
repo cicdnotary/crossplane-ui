@@ -1,0 +1,14 @@
+{
+  "name": "crossplane-ui",
+  "version": "1.0.0",
+  "description": "UI to use with Crossplane",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bkauf",
+  "license": "ISC",
+  "dependencies": {
+    "@kubernetes/client-node": "^0.17.1"
+  }
+}
